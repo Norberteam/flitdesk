@@ -328,6 +328,9 @@ Contacter Flit
 N’hésitez pas non plus à nous contacter si vous avez des questions sur les conditions d’utilisation de Flit. Vous pouvez nous contacter à l’adresse hello@flitdesk.com ou à notre adresse postale ci-dessous :
 
 Norbert Tech SAS
+
 31 rue Censier
+
 75005, Paris
+
 FRANCE
